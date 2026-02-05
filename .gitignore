@@ -1,0 +1,25 @@
+# Fichiers de build générés par Visual Studio
+.vs/
+.vscode/
+.idea/
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+# Dossiers de build pour différents types de configuration
+Debug/
+Release/
+
+# Dossiers binaires (avec une exception pour SFML/bin)
+bin/
+
+# Fichiers de dépendances
+*.db
+*.opendb
+*.cache
+*.log
+
+# Dossiers temporaires
+tmp/
+obj/
