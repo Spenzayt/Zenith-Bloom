@@ -2,6 +2,8 @@
 
 ## Overview
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/05366990-9d68-4e29-9903-59cd690249e1" />
+
 **Zenith Bloom** is a 2D action-platformer developed in C++ with **SFML**, set in a solarpunk world where technology and nature coexist.  
 You play as a high-tech cyborg tasked with stopping rogue machines that pollute a solar-powered city and repairing the damage they leave behind.
 
@@ -31,6 +33,8 @@ You play as a high-tech cyborg tasked with stopping rogue machines that pollute 
   - Night: Machines shut down, allowing safer exploration and repairs.
 
 ---
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1da790f2-4f8c-436a-ab53-166a354ea6e7" />
 
 ## Gameplay
 
